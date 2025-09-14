@@ -1,0 +1,64 @@
+# Site settings
+title: "Yujie Zheng"
+email: "your.email@example.com"
+description: >-
+  Academic portfolio of Yujie Zheng - Postdoctoral Researcher in Human-AI Interaction
+  at Tongji University. PhD in Cognitive Psychology from Zhejiang University.
+baseurl: ""
+url: "https://yujzheng.github.io"
+twitter_username: your_twitter
+github_username: yujzheng
+linkedin_username: your_linkedin
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Academic info
+author:
+  name: "Yujie Zheng"
+  position: "Postdoctoral Researcher"
+  affiliation: "Tongji University"
+  location: "Shanghai, China"
+  research_interests:
+    - "Human-AI Interaction"
+    - "Cognitive Psychology"
+    - "User Experience Research"
+    - "Human-Computer Interaction"
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
