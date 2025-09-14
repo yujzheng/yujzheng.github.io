@@ -10,7 +10,6 @@ permalink: /publications/
 
 *[Add your published journal articles here. Example format:]*
 
-**Zheng, Y.**, Author, B., & Author, C. (2024). Title of your paper about human-AI interaction. *Journal of Human-AI Studies*, *Volume*(Issue), pages. DOI: [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
 
 ### 2023
 
@@ -21,8 +20,6 @@ permalink: /publications/
 ### 2024
 
 *[Add your conference papers here. Example format:]*
-
-**Zheng, Y.**, & Collaborator, A. (2024). Understanding trust in AI systems: A cognitive psychology perspective. In *Proceedings of the CHI Conference on Human Factors in Computing Systems* (CHI '24). ACM. DOI: [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
 
 ### 2023
 
@@ -36,17 +33,11 @@ permalink: /publications/
 
 *[Add any preprints or papers under review]*
 
-**Zheng, Y.**, Author, B. (2025). Title of working paper. *Under review at [Journal Name]*.
 
 ## Presentations
 
 ### Conference Presentations
 
-- **Zheng, Y.** (2024). "Title of presentation." Presented at [Conference Name], [Location], [Date].
-
-### Invited Talks
-
-- **Zheng, Y.** (2024). "Title of talk." Invited seminar at [Institution], [Location], [Date].
 
 ## Patents
 

@@ -86,30 +86,6 @@ I'm particularly interested in collaborating on projects related to:
 
 - **Human-AI Trust and Explainability**: Understanding how people develop and maintain trust in AI systems
 - **Cognitive Psychology in HCI**: Applying psychological principles to improve human-computer interaction
-- **User Experience Research**: Designing and evaluating AI-powered interfaces
-- **Cross-cultural Studies**: Investigating cultural differences in AI perception and adoption
-
-## For Students
-
-### Prospective Graduate Students
-If you're interested in pursuing graduate research in human-AI interaction or cognitive psychology, I'd be happy to discuss potential opportunities and provide guidance on applications.
-
-### Undergraduate Research
-I occasionally supervise undergraduate research projects. If you're interested in getting research experience in my areas of expertise, please reach out with:
-- Your academic background and interests
-- Relevant coursework or experience
-- Your career goals
-- Time commitment you can make
-
-## Speaking Engagements
-
-I'm available for:
-- Academic seminars and guest lectures
-- Industry workshops on human-AI interaction
-- Conference presentations
-- Panel discussions on AI ethics and user experience
-
-Please contact me with details about your event, timeline, and any specific topics you'd like me to address.
 
 ## Media Inquiries
 
