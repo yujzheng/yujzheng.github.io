@@ -6,55 +6,37 @@ permalink: /publications/
 
 ## Journal Articles
 
-### 2024
-
-*[Add your published journal articles here. Example format:]*
-
-
-### 2023
-
-*[Add earlier publications]*
-
-## Conference Papers
+### 2025
+- **Zheng, Y.**, Wang, T., & Li, Z. (2025). Start time affects the mode of color search: Evidence for a short-lived capacity-limited parallel process in visual search. *Journal of Experimental Psychology: Human Perception and Performance, 51*(8), 1025–1043. https://doi.org/10.1037/xhp0001337  
+- **Zheng, Y.**, Pan, Y., Xu, Y., & Li, Z. (2025). Can multiple-target search paradigms reliably discriminate serial and parallel search processes? *Quarterly Journal of Experimental Psychology.* https://doi.org/10.1177/17470218251375982  
 
 ### 2024
+- **Zheng, Y.**, Lou, J., Lu, Y., & Li, Z. (2024). Multiple visual items can be simultaneously compared to target templates in memory. *Attention, Perception & Psychophysics, 86*, 1641–1652. https://doi.org/10.3758/s13414-024-02906-6  
 
-*[Add your conference papers here. Example format:]*
+---
+
+## Conference
+
+### 2024
+- **Zheng, Y.**, Lou, J., & Li, Z. (2024). Multiple identified items can be simultaneously tested against the target templates in memory in the hybrid visual and memory search. *Journal of Vision, 24*(10): 340. Poster presented at the VSS Annual Meeting, St. Pete Beach, Florida, US. https://doi.org/10.1167/jov.24.10.340  
 
 ### 2023
+- **Zheng, Y.**, Yu, Y., Xin, K., & Li, Z. (2023). Assessing the precision of iconic memory through the matching comparison method: An “all-or-none” maintenance representation. *25th National Academic Conference of Psychology.*  
 
-*[Add earlier conference papers]*
+### 2022
+- **Zheng, Y.**, Lou, J., & Li, Z. (2022). Comparison between single-candidate and dual-candidate searches provides evidence for a serial-parallel hybrid search mode in standard visual search. *24th National Academic Conference of Psychology.*  
 
-## Dissertation
+### 2021
+- **Zheng, Y.**, Xin, K., & Li, Z. (2021). The two-stage model of attention deployment partially contributes to the memory-free mode of visual search. *23rd National Academic Conference of Psychology.*  
 
-**Zheng, Y.** (2024). *[Title of your PhD dissertation]*. PhD dissertation, Zhejiang University, Hangzhou, China.
+### 2020
+- Xin, K., **Zheng, Y.**, & Li, Z. (2020). Visible persistence plays an important role in the preview effect. *Journal of Vision, 20*(11): 370. Vision Sciences Society 2020. https://doi.org/10.1167/jov.20.11.370  
 
-## Preprints and Working Papers
-
-*[Add any preprints or papers under review]*
-
-
-## Presentations
-
-### Conference Presentations
-
-
-## Patents
-
-*[If applicable, add any patents]*
 
 ---
 
 ## Publication Metrics
 
-- **Google Scholar**: [Add your Google Scholar profile link]
-- **ORCID**: [Add your ORCID ID]
-- **ResearchGate**: [Add your ResearchGate profile link]
-
----
-
-*This page will be updated regularly with new publications. For the most current list, please check my [Google Scholar profile](https://scholar.google.com/citations?user=YOUR_ID).*
-
-## How to Cite My Work
-
-Please use the citation formats provided with each publication. For questions about my research or potential collaborations, feel free to [contact me](/contact/).
+- **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/citations?user=lNrtOxoAAAAJ&hl=en)  
+- **ORCID**: [0000-0002-2350-5656](https://orcid.org/0000-0002-2350-5656)  
+- **ResearchGate**: [ResearchGate Profile](https://www.researchgate.net/profile/Yujie_Zheng?ev=hdr_xprf)  
